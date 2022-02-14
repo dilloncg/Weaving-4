@@ -1,0 +1,27 @@
+body{
+  background-image: url("weaving-background4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.star{
+  height: 120px;
+  margin-left: 40px;
+  margin-top: 200px;
+  position: fixed;
+}
+
+.star:hover{
+  opacity: 0.6;
+}
+
+.smile{
+  height: 100px;
+  margin-left: 200px;
+  margin-top: 700px;
+  position: fixed;
+}
+
+.smile:hover{
+  transform: rotate(90deg);
+}
